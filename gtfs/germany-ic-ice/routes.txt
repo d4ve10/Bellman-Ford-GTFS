@@ -1,0 +1,114 @@
+route_long_name,route_short_name,agency_id,route_type,route_id
+,EC,1,2,58
+,EC,10,2,12
+,EC,13,2,20
+,EC,2,2,1
+,EC,4,2,105
+,EC,9,2,7
+,EN,10,2,2
+,EN,11,2,47
+,EN,2,2,27
+,EN,4,2,81
+,EN,9,2,66
+,IC,12,2,85
+,IC,13,2,108
+,IC,6,2,15
+,IC,7,2,42
+,IC,9,2,59
+,ICE,13,2,31
+,ICE,7,2,73
+,ICE,9,2,95
+,RJ,10,2,67
+,RJ,2,2,13
+,RJ,9,2,82
+EuroCity,EC 12,13,2,111
+EuroCity,EC 12,5,2,74
+EuroCity,EC 27,5,2,86
+EuroCity,EC 62,5,2,96
+EuroCity,EC 62,9,2,21
+EuroCity,EC 75,5,2,28
+EuroCity,EC 85,5,2,43
+EuroCity,EC 88,13,2,32
+EuroCity,EC 88,9,2,75
+EuroCity,EC 89,5,2,22
+EuroCity,EC 95,5,2,109
+EuroCity,EC 95,8,2,49
+EuroCity-Express,ECE 85,5,2,6
+EuroCity-Express,ECE 88,5,2,3
+EuroNight,EN 12,9,2,100
+EuroNight,EN 27,10,2,35
+EuroNight,EN 27,8,2,69
+EuroNight,EN 27,9,2,62
+EuroNight,EN 62,10,2,51
+EuroNight,EN 62,11,2,76
+EuroNight,EN 62,9,2,70
+Intercity,IC 12,6,2,14
+Intercity,IC 17,5,2,71
+Intercity,IC 20,6,2,77
+Intercity,IC 24,5,2,16
+Intercity,IC 26,5,2,87
+Intercity,IC 27,5,2,37
+Intercity,IC 27,6,2,112
+Intercity,IC 29,5,2,39
+Intercity,IC 30,5,2,97
+Intercity,IC 32,5,2,36
+Intercity,IC 34,5,2,44
+Intercity,IC 35,5,2,102
+Intercity,IC 39,5,2,78
+Intercity,IC 43,5,2,45
+Intercity,IC 43,6,2,40
+Intercity,IC 51,5,2,23
+Intercity,IC 55,5,2,90
+Intercity,IC 56,5,2,24
+Intercity,IC 57,5,2,52
+Intercity,IC 6,13,2,17
+Intercity,IC 61,5,2,91
+Intercity,IC 62,5,2,64
+Intercity,IC 77,5,2,92
+Intercity,IC 87,5,2,63
+Intercity-Express,ICE 10,5,2,53
+Intercity-Express,ICE 11,5,2,83
+Intercity-Express,ICE 12,5,2,110
+Intercity-Express,ICE 13,5,2,93
+Intercity-Express,ICE 14,5,2,68
+Intercity-Express,ICE 15,5,2,106
+Intercity-Express,ICE 16,5,2,56
+Intercity-Express,ICE 17,5,2,60
+Intercity-Express,ICE 18,5,2,84
+Intercity-Express,ICE 19,5,2,79
+Intercity-Express,ICE 20,5,2,88
+Intercity-Express,ICE 21,5,2,94
+Intercity-Express,ICE 22,5,2,98
+Intercity-Express,ICE 24,5,2,99
+Intercity-Express,ICE 25,5,2,57
+Intercity-Express,ICE 26,5,2,65
+Intercity-Express,ICE 27,5,2,101
+Intercity-Express,ICE 28,5,2,50
+Intercity-Express,ICE 29,5,2,41
+Intercity-Express,ICE 32,5,2,107
+Intercity-Express,ICE 35,5,2,8
+Intercity-Express,ICE 39,5,2,33
+Intercity-Express,ICE 4,5,2,54
+Intercity-Express,ICE 41,5,2,25
+Intercity-Express,ICE 42,5,2,29
+Intercity-Express,ICE 43,5,2,26
+Intercity-Express,ICE 46,5,2,113
+Intercity-Express,ICE 47,5,2,72
+Intercity-Express,ICE 48,5,2,55
+Intercity-Express,ICE 49,5,2,61
+Intercity-Express,ICE 50,5,2,4
+Intercity-Express,ICE 56,5,2,19
+Intercity-Express,ICE 60,5,2,9
+Intercity-Express,ICE 61,13,2,103
+Intercity-Express,ICE 62,5,2,18
+Intercity-Express,ICE 77,5,2,38
+Intercity-Express,ICE 78,5,2,30
+Intercity-Express,ICE 79,5,2,5
+Intercity-Express,ICE 8,5,2,10
+Intercity-Express,ICE 82,3,2,46
+Intercity-Express,ICE 82,5,2,11
+Intercity-Express,ICE 83,3,2,48
+Intercity-Express,ICE 83,5,2,89
+Intercity-Express,ICE 89,5,2,104
+Intercity-Express,ICE 9,5,2,34
+Intercity-Express,ICE 91,5,2,80
